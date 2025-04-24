@@ -1,0 +1,18 @@
+
+version: "3.8"
+
+services:
+  focalboard:
+    image: mattermost/focalboard
+    container_name: focalboard
+    ports:
+      - "8091:8000"
+    volumes:
+      - focalboard_data:/opt/focalboard/data
+    environment:
+      - FOCALBOARD_DB_TYPE=sqlite3
+      - FOCALBOARD_SQLITE_DB_PATH=/opt/focalboard/data/focalboard.db
+      - FOCALBOARD_PORT=8000
+
+volumes:
+  focalboard_data:
