@@ -89,3 +89,10 @@ O **Aurora 8** está organizado em **oito pilares fundamentais** para garantir a
 ---
 
 Cada pilar foi pensado para **suportar todo o ciclo de vida da automação**, garantindo **sustentação, escalabilidade** e **visibilidade** em cada etapa do processo.
+
+# Time
+
+| [<img src="https://avatars.githubusercontent.com/u/43658340?v=4" width="115"><br><sub>Patrick Ataíde</sub>](https://github.com/pasilva1) |
+| :---: |
+
+
