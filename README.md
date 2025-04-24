@@ -42,6 +42,32 @@ O **Aurora 8** está organizado em **oito pilares fundamentais** para garantir a
 - Criação de Backlog  - Exporta arquivo para criação de backlog no app **Focalboard** [Arquivo p/ exportar](archive.boardarchive)
 - Quadro Kanban - Aplicativo de gerenciamento visual de tarefas **Focalboard** focado em gestão de projetos e tarefas colaborativas estilo **Trello** ou **Notion** [Deploy via Docker - focalboard](focalboard.yml)
 
+#### Quem cria o backlog em projetos ágeis (Scrum ou Kanban)?
+
+| Papel                     | Função no Backlog                                                                 |
+|---------------------------|----------------------------------------------------------------------------------|
+| Product Owner (PO)        | Principal responsável por **criar, manter e priorizar** o backlog com base em **objetivos do negócio**. Define **o que** precisa ser feito. |
+| Equipe Técnica (Dev/QA/DevOps) | Apoia no **refinamento técnico**, detalha **como** fazer, aponta **complexidade**, **dependências** e **riscos**. |
+| Stakeholders              | Contribuem sugerindo **demandas, requisitos** ou **feedback** (usuários, clientes, áreas internas). |
+
+#### Responsabilidades práticas do Product Owner
+
+O Product Owner é responsável por:
+
+- Criar **cards** no Focalboard com:
+  - **Título descritivo da tarefa** (ex: `Automatizar envio de e-mails`)
+  - **Descrição clara** com requisitos funcionais e não funcionais
+  - **Prioridade** (Alta, Média, Baixa)
+  - **Critérios de aceitação** (ex: `E-mail enviado em até 5 minutos após status "Venda Concluída"`)
+
+- Organizar os cards em colunas:
+
+| Coluna       | Significado                                 |
+|--------------|---------------------------------------------|
+| Backlog      | Tarefas planejadas ainda não selecionadas   |
+| To Do        | Tarefas priorizadas para execução           |
+| In Progress  | Tarefas atualmente em desenvolvimento       |
+| Done         | Tarefas concluídas com sucesso              |
 ---
 
 ### Versionamento
