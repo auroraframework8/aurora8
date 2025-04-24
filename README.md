@@ -40,7 +40,7 @@ O **Aurora 8** está organizado em **oito pilares fundamentais** para garantir a
 ### Gestão Ágil
 
 - Criação de Backlog  - Exporta arquivo para criação de backlog no app **Focalboard** [Arquivo p/ exportar](archive.boardarchive)
-- Quadro Kanban
+- Quadro Kanban - Aplicativo de gerenciamento visual de tarefas **Focalboard** focado em gestão de projetos e tarefas colaborativas estilo **Trello** ou **Notion** [Deploy via Docker - focalboard](Focalboard.yml)
 
 ---
 
