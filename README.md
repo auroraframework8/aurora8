@@ -33,7 +33,7 @@ O **Aurora 8** está organizado em **oito pilares fundamentais** para garantir a
   - Desenho BPM
     - Draw.io , suporte nativo BPMN com templates prontos. [Deploy via Docker - Draw.io](Drawio.yml)
     - Excalidraw , indicado para **brainstorming** e **mockups** rápidos. [Deploy via Docker - Excalidraw](Excalidraw.yml)
-  - Diagramas digraphviz
+  - Diagramas digraphviz - Digraph G - [Digraph G](https://dreampuf.github.io/GraphvizOnline)
 
 ---
 
