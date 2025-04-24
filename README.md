@@ -39,7 +39,7 @@ O **Aurora 8** está organizado em **oito pilares fundamentais** para garantir a
 
 ### Gestão Ágil
 
-- Criação de Backlog  
+- Criação de Backlog  - Exporta arquivo para criação de backlog no app **Focalboard** [Arquivo p/ exportar](archive.boardarchive)
 - Quadro Kanban
 
 ---
