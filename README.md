@@ -30,8 +30,8 @@ O **Aurora 8** está organizado em **oito pilares fundamentais** para garantir a
 
 - TAP (Termo de Abertura do Projeto) - [TAP (Termo de Abertura do Projeto)](TAP.md) 
 - Análise de Requisitos  
-- Desenho BPM  
-- Diagramas digraphviz
+  - Desenho BPM  
+  - Diagramas digraphviz
 
 ---
 
