@@ -1,4 +1,5 @@
 # Aurora 8 
+## Ciclo de vida de um projeto de automação.
 
 ![Aurora 8 Banner](bannerprojetoaurora8.png)
 
