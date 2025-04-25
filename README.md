@@ -1,7 +1,7 @@
 # Aurora 8 
 ## Ciclo de vida de um projeto de automação.
 
-![Aurora 8 Banner](bannerprojetoaurora8.png)
+![Aurora 8](projetoaurora8.png)
 
 O **Aurora 8** é um framework que **não apenas estrutura o desenvolvimento e orquestração de automações**, mas também **valoriza o conhecimento gerado através da documentação**, garantindo **sustentação**, **escalabilidade** e **monitoramento contínuo**.
 
