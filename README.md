@@ -72,6 +72,14 @@ O Product Owner é responsável por:
 
 ### Versionamento
 
+- Cartilha Git - Boas práticas - Fluxo entre **main** e **dev**. - [Cartilha Git](Cartilha_Git.md) 
+  - Introdução do Git / Beneficios
+  - Estrutura do Git / Fluxo de Arquivos no Git
+  - Conceito de Branches (main e dev)
+  - Comandos Essenciais
+  - Integrando dev no main (merge)
+  
+
 - Repositório GitLab para versionar:
   - Código
   - Automações
