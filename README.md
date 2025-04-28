@@ -65,9 +65,10 @@ O Product Owner é responsável por:
 | Coluna       | Significado                                 |
 |--------------|---------------------------------------------|
 | Backlog      | Tarefas planejadas ainda não selecionadas   |
-| To Do        | Tarefas priorizadas para execução           |
 | In Progress  | Tarefas atualmente em desenvolvimento       |
-| Done         | Tarefas concluídas com sucesso              |
+| Blocked      | Tarefas com algum tipo de impedimento       |
+| Completed    | Tarefas concluídas com sucesso              |
+| Archived     | Tarefas arquivadas                          |
 ---
 
 ### Versionamento
