@@ -61,3 +61,4 @@ git pull origin main                 # Atualiza a main com o remoto
 git merge dev                        # Faz o merge das mudanças da dev
 git push origin main                 # Envia para o repositório remoto
 ```
+![Merge](merge.png)
