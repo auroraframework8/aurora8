@@ -69,8 +69,9 @@ O Product Owner é responsável por:
 | Blocked      | Tarefas com algum tipo de impedimento       |
 | Completed    | Tarefas concluídas com sucesso              |
 | Archived     | Tarefas arquivadas                          |
----
 
+![Quadro Kanba - Focalboard](kanban.png)
+---
 ### Versionamento
 
 - Cartilha Git - Boas práticas - Fluxo entre **main** e **dev**. - [Cartilha Git](Cartilha_Git.md) 
