@@ -99,6 +99,12 @@ O Product Owner é responsável por:
 ### QA (Quality Assurance)
 
 - Testes automatizados via orquestradores:
+  - Ciclo dos testes
+    - Planejar os teste
+    - Criar o designer dos testes
+    - Configurar o ambinete de testes
+    - Executar os testes
+    - Analisar os resultados
   - GitLab CI/CD
   - Jenkins
 
