@@ -108,6 +108,7 @@ O Product Owner é responsável por:
   - GitLab CI/CD
   - Jenkins
 
+![Ciclo dos testes](pytest.png)
 ---
 
 ### Orquestração
